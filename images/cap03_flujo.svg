@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" font-family="Segoe UI, Arial, sans-serif">
+<rect width="960" height="260" fill="#FFFFFF"/>
+<text x="480.0" y="48" text-anchor="middle" font-size="24" font-weight="600" fill="#1B1B1B">Práctica 3 · Presentación de principio a fin</text>
+<rect x="26.0" y="90" width="200" height="120" rx="14" fill="#E8432F"/>
+<text x="126.0" y="120" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Paso 1</text>
+<text x="126.0" y="150" text-anchor="middle" font-size="16" fill="#FFFFFF">Planificar en</text>
+<text x="126.0" y="171" text-anchor="middle" font-size="16" fill="#FFFFFF">Copilot Chat</text>
+<path d="M232.0 150.0 L256.0 150.0" stroke="#6B6B6B" stroke-width="3"/><path d="M256.0 143.0 L264.0 150.0 L256.0 157.0 Z" fill="#6B6B6B"/>
+<rect x="262.0" y="90" width="200" height="120" rx="14" fill="#E0301E"/>
+<text x="362.0" y="120" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Paso 2</text>
+<text x="362.0" y="150" text-anchor="middle" font-size="16" fill="#FFFFFF">Generar en</text>
+<text x="362.0" y="171" text-anchor="middle" font-size="16" fill="#FFFFFF">PowerPoint</text>
+<path d="M468.0 150.0 L492.0 150.0" stroke="#6B6B6B" stroke-width="3"/><path d="M492.0 143.0 L500.0 150.0 L492.0 157.0 Z" fill="#6B6B6B"/>
+<rect x="498.0" y="90" width="200" height="120" rx="14" fill="#8A2BB8"/>
+<text x="598.0" y="120" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Paso 3</text>
+<text x="598.0" y="150" text-anchor="middle" font-size="16" fill="#FFFFFF">Revisar contenido</text>
+<path d="M704.0 150.0 L728.0 150.0" stroke="#6B6B6B" stroke-width="3"/><path d="M728.0 143.0 L736.0 150.0 L728.0 157.0 Z" fill="#6B6B6B"/>
+<rect x="734.0" y="90" width="200" height="120" rx="14" fill="#1F5FAE"/>
+<text x="834.0" y="120" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Paso 4</text>
+<text x="834.0" y="150" text-anchor="middle" font-size="16" fill="#FFFFFF">Mejorar y preparar</text>
+<text x="834.0" y="171" text-anchor="middle" font-size="16" fill="#FFFFFF">notas</text>
+<text x="480.0" y="242" text-anchor="middle" font-size="13" fill="#6B6B6B">Curso MS-4018 personalizado · Redacta, analiza y presenta con Microsoft 365 Copilot</text></svg>

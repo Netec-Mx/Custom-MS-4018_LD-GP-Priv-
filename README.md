@@ -2,7 +2,7 @@
 
 
 
-# Nombre del curso
+# Redacta, analiza y presenta con Microsoft 365 Copilot
 
 
 
@@ -10,7 +10,9 @@
 
 
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **nombre**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Redacta, analiza y presenta con Microsoft 365 Copilot** (Custom MS-4018). Aquí podrás practicar cómo usar Microsoft 365 Copilot como aliado en tu trabajo diario: escribir prompts eficaces, crear presentaciones, analizar datos en Excel y ponerte al día con Outlook, Teams y Word. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+
+> Todos los datos de las prácticas son ficticios. Usa tu cuenta de trabajo de Microsoft 365 y no incluyas información real de clientes ni datos sensibles.
 
 
 
@@ -22,67 +24,59 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Práctica 1. Nombre de la práctica](CHAPTER_01/ch01-investment-portfolio/README.md) 
+### [Práctica 1. Primeros pasos con Microsoft 365 Copilot Chat](Capitulo01/README.md)
 
-  - **Descripción**: xxx.
+  - **Descripción**: Acceder a Copilot Chat con la cuenta de trabajo, identificar si se usa Copilot Chat básico o Microsoft 365 Copilot con licencia, y aplicar la revisión humana a una respuesta.
 
-  - ⏱️ **Duración estimada**: xx min.
-
-
-
-### [Práctica 2. Nombre de la práctica](CHAPTER_02/ch02-cashback-schema-design/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️ **Duración estimada**: xx min.
+  - ⏱️ **Duración estimada**: 5 min.
 
 
 
-### [Práctica 3. Nombre de la práctica](CHAPTER_03/ch03-cashback-dgs-service/README.md)
+### [Práctica 2. De una solicitud básica a un prompt eficaz](Capitulo02/README.md)
 
-  - **Descripción**: xxx.
+  - **Descripción**: Convertir una solicitud básica en un prompt estructurado con objetivo, contexto, fuente y expectativas para elaborar una propuesta o resumir un correo.
 
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_04/ch04-smart-savings-goals/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
+  - ⏱️ **Duración estimada**: 8 min.
 
 
 
-### [Práctica 3. Nombre de la práctica](CHAPTER_05/ch05-p2p-lending-federation/README.md)
+### [Práctica 3. Crear una presentación de principio a fin con Copilot](Capitulo03/README.md)
 
-  - **Descripción**: xxx.
+  - **Descripción**: Planificar, generar, revisar y mejorar una presentación de 6 diapositivas en PowerPoint con Copilot.
 
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_06/ch06-fraud-detection-subscriptions/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
+  - ⏱️ **Duración estimada**: 15 min.
 
 
 
-### [Práctica 3. Nombre de la práctica](CHAPTER_07/ch07-expense-analytics-caching/README.md)
+### [Práctica 4. Mejora tu productividad con decisiones basadas en datos en Excel](Capitulo04/README.md)
 
-  - **Descripción**: xxx.
+  - **Descripción**: Analizar los indicadores de 6 sucursales con Copilot en Excel: columnas calculadas, formato condicional, tabla dinámica y conclusiones validadas.
 
-  - ⏱️**Duración estimada**: xx min.
+  - ⏱️ **Duración estimada**: 15 min.
 
 
 
-### [Práctica 3. Nombre de la práctica](CHAPTER_08/ch08-carbon-footprint-governance/README.md)
+### [Práctica 5. Copilot en Outlook y Teams](Capitulo05/README.md)
 
-  - **Descripción**: xxx.
+  - **Descripción**: Resumir un hilo de correos y redactar una respuesta breve en Outlook; resumir una conversación o reunión de Teams y extraer acuerdos y pendientes.
 
-  - ⏱️**Duración estimada**: xx min.
+  - ⏱️ **Duración estimada**: 12 min.
+
+
+
+### [Práctica 6. Redactar y mejorar un comunicado con Copilot en Word](Capitulo06/README.md)
+
+  - **Descripción**: Generar el borrador de un comunicado interno, mejorar su claridad y tono, y revisarlo antes de compartirlo.
+
+  - ⏱️ **Duración estimada**: 12 min.
+
+
+
+### [Práctica 7. Casos por perfil](Capitulo07/README.md)
+
+  - **Descripción**: Ejercicios 6 a 9 para líderes y gerentes, analistas de riesgo y finanzas, áreas administrativas y de operaciones, y tecnología y ciberseguridad.
+
+  - ⏱️ **Duración estimada**: 25 min.
 
 
 

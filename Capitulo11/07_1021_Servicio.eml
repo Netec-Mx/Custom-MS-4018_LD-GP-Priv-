@@ -1,0 +1,42 @@
+From: Servicio al Cliente <servicio.cliente@meridiano-demo.example>
+To: Carlos =?utf-8?q?M=C3=A9ndez?= <carlos.mendez@meridiano-demo.example>
+Cc: Daniel Ortiz <daniel.ortiz@meridiano-demo.example>
+Subject: Reclamo escalado: cliente de Puerto Azul espera respuesta en 48 horas
+Date: Wed, 21 Oct 2026 08:15:00 -0500
+Message-ID: <179268168008.96830.12015033462945497008@meridiano-demo.example>
+X-Demo: Material de =?utf-8?q?demostraci=C3=B3n?= MS-4018 - datos ficticios
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5476199925416309658=="
+
+--===============5476199925416309658==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hola Carlos: Escalamos el reclamo n.=C2=BA 2026-1187 de un cliente de Puerto =
+Azul que esper=C3=B3 55 minutos para pagar su tarjeta y luego recibi=C3=B3 in=
+formaci=C3=B3n distinta en la app sobre la fecha de corte. El regulador exige=
+ respuesta formal en m=C3=A1ximo 15 d=C3=ADas h=C3=A1biles, pero el cliente p=
+idi=C3=B3 una llamada en las pr=C3=B3ximas 48 horas. Por favor conf=C3=ADrman=
+os qui=C3=A9n lo contacta. Daniel, te copiamos porque es un buen caso para el=
+ m=C3=B3dulo de calidad de la informaci=C3=B3n de la formaci=C3=B3n del pilot=
+o.
+
+--===============5476199925416309658==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Calibri,Arial;font-size:11pt"><p>Hola Carlos=
+:</p><p>Escalamos el reclamo n.=C2=BA 2026-1187 de un cliente de Puerto Azul =
+que esper=C3=B3 55 minutos para pagar su tarjeta y luego recibi=C3=B3 informa=
+ci=C3=B3n distinta en la app sobre la fecha de corte.</p><p>El regulador exig=
+e respuesta formal en m=C3=A1ximo 15 d=C3=ADas h=C3=A1biles, pero el cliente =
+pidi=C3=B3 una llamada en las pr=C3=B3ximas <b>48 horas</b>. Por favor conf=
+=C3=ADrmanos qui=C3=A9n lo contacta.</p><p>Daniel, te copiamos porque es un b=
+uen caso para el m=C3=B3dulo de calidad de la informaci=C3=B3n de la formaci=
+=C3=B3n del piloto.</p><p style=3D"color:#555;font-size:10pt">Servicio al Cli=
+ente<br>Gerencia de Experiencia del Cliente<br>Banco Meridiano (entidad ficti=
+cia)</p></body></html>
+
+--===============5476199925416309658==--

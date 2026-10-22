@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" font-family="Segoe UI, Arial, sans-serif">
+<rect width="960" height="260" fill="#FFFFFF"/>
+<text x="480" y="48" text-anchor="middle" font-size="24" font-weight="600" fill="#1B1B1B">Práctica 12 · De la reunión a las tareas en Teams</text>
+<rect x="26" y="90" width="200" height="120" rx="14" fill="#E8432F"/>
+<text x="126" y="120" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Paso 1</text>
+<text x="126" y="150" text-anchor="middle" font-size="16" fill="#FFFFFF">Analizar la</text>
+<text x="126" y="171" text-anchor="middle" font-size="16" fill="#FFFFFF">transcripción</text>
+<path d="M232 150 L256 150" stroke="#6B6B6B" stroke-width="3"/><path d="M256 143 L264 150 L256 157 Z" fill="#6B6B6B"/>
+<rect x="262" y="90" width="200" height="120" rx="14" fill="#E0301E"/>
+<text x="362" y="120" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Paso 2</text>
+<text x="362" y="150" text-anchor="middle" font-size="16" fill="#FFFFFF">Tabla de tareas</text>
+<path d="M468 150 L492 150" stroke="#6B6B6B" stroke-width="3"/><path d="M492 143 L500 150 L492 157 Z" fill="#6B6B6B"/>
+<rect x="498" y="90" width="200" height="120" rx="14" fill="#8A2BB8"/>
+<text x="598" y="120" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Paso 3</text>
+<text x="598" y="150" text-anchor="middle" font-size="16" fill="#FFFFFF">Correo de</text>
+<text x="598" y="171" text-anchor="middle" font-size="16" fill="#FFFFFF">seguimiento</text>
+<path d="M704 150 L728 150" stroke="#6B6B6B" stroke-width="3"/><path d="M728 143 L736 150 L728 157 Z" fill="#6B6B6B"/>
+<rect x="734" y="90" width="200" height="120" rx="14" fill="#1F5FAE"/>
+<text x="834" y="120" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">Paso 4</text>
+<text x="834" y="150" text-anchor="middle" font-size="16" fill="#FFFFFF">Reunión real con</text>
+<text x="834" y="171" text-anchor="middle" font-size="16" fill="#FFFFFF">resumen</text>
+<text x="480" y="242" text-anchor="middle" font-size="13" fill="#6B6B6B">Curso MS-4018 personalizado · Práctica avanzada · Redacta, analiza y presenta con Microsoft 365 Copilot</text></svg>

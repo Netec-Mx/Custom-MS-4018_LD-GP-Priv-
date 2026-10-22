@@ -1,0 +1,32 @@
+From: =?utf-8?q?Administraci=C3=B3n?= de Sedes <sedes@meridiano-demo.example>
+To: Daniel Ortiz <daniel.ortiz@meridiano-demo.example>
+Subject: =?utf-8?q?Confirmaci=C3=B3n?= de reserva: Sala Andes, martes 27 de
+ octubre
+Date: Wed, 21 Oct 2026 16:40:00 -0500
+Message-ID: <179268168008.96830.3010652583831695991@meridiano-demo.example>
+X-Demo: Material de =?utf-8?q?demostraci=C3=B3n?= MS-4018 - datos ficticios
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5969375757013125104=="
+
+--===============5969375757013125104==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hola Daniel: Confirmamos la reserva de la Sala Andes (capacidad 10 personas, =
+con pantalla y videoconferencia) para el martes 27 de octubre de 9:30 a 11:30=
+. Si no la necesitas, por favor lib=C3=A9rala antes del lunes 26 a las 12:00.
+
+--===============5969375757013125104==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body style=3D"font-family:Calibri,Arial;font-size:11pt"><p>Hola Daniel=
+:</p><p>Confirmamos la reserva de la Sala Andes (capacidad 10 personas, con p=
+antalla y videoconferencia) para el martes 27 de octubre de 9:30 a 11:30.</p>=
+<p>Si no la necesitas, por favor lib=C3=A9rala antes del lunes 26 a las 12:00=
+.</p><p style=3D"color:#555;font-size:10pt">Administraci=C3=B3n de Sedes<br>B=
+anco Meridiano<br>Banco Meridiano (entidad ficticia)</p></body></html>
+
+--===============5969375757013125104==--

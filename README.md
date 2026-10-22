@@ -80,6 +80,54 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
+## Prácticas avanzadas (opcionales)
+
+
+
+Para seguir practicando después del curso. Cada práctica trae sus archivos base en la carpeta del capítulo y los resultados esperados para que verifiques tu trabajo. Requieren licencia de Microsoft 365 Copilot.
+
+
+
+### [Práctica 8. Crear una presentación a partir de tres documentos](Capitulo08/README.md)
+
+  - **Descripción**: Crear en PowerPoint una presentación para el comité combinando un informe, una encuesta y una propuesta, con imagen, tabla y diagrama generados por Copilot.
+
+  - ⏱️ **Duración estimada**: 15 min.
+
+
+
+### [Práctica 9. Analizar un libro de Excel existente: fórmulas, gráficos y conclusiones](Capitulo09/README.md)
+
+  - **Descripción**: Agregar columnas con fórmulas, formato condicional, tablas dinámicas y gráficos a un libro de 720 filas, y redactar conclusiones verificables.
+
+  - ⏱️ **Duración estimada**: 15 min.
+
+
+
+### [Práctica 10. Resumir un documento extenso en otro idioma con Copilot en Word](Capitulo10/README.md)
+
+  - **Descripción**: Resumir y consultar en español un informe de nueve páginas en inglés, crear un memorando en español y explorar otros idiomas.
+
+  - ⏱️ **Duración estimada**: 15 min.
+
+
+
+### [Práctica 11. Del buzón a la acción con Copilot en Outlook](Capitulo11/README.md)
+
+  - **Descripción**: Importar un hilo de correos ficticio, priorizar el buzón, resumir el hilo y su adjunto, redactar una respuesta y convertir la conversación en una reunión.
+
+  - ⏱️ **Duración estimada**: 15 min.
+
+
+
+### [Práctica 12. De la reunión a las tareas con Copilot en Teams](Capitulo12/README.md)
+
+  - **Descripción**: Extraer decisiones, tareas y desacuerdos de la transcripción de un comité, redactar el seguimiento y probar el resumen inteligente en una reunión real.
+
+  - ⏱️ **Duración estimada**: 15 min.
+
+
+
 ---
 
 
